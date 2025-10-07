@@ -1,74 +1,31 @@
-# 👋 Hi there, I'm Letik  
-A Roblox scripter and developer focused on creating game systems and clean, scalable architectures.  
+<h1 align="center">Hi 👋, I'm I'm Letik</h1>
+<h3 align="center">A Roblox scripter and developer focused on creating game systems and clean, scalable architectures.</h3>
 
-*"Good code is the kind that reads like a good book."*  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=letikkk&label=Profile%20views&color=0e75b6&style=flat" alt="letikkk" /> </p>
 
-I believe in building systems that are not only functional but also maintainable, optimized, and enjoyable for other developers to work with.  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=letikkk" alt="letikkk" /></a> </p>
 
----
+- 🌱 I’m currently learning **c++ and unity**
 
-## 🎮 **About Me**  
+- 👨‍💻 All of my projects are available at [https://discord.gg/z4DsnXGgeB](https://discord.gg/z4DsnXGgeB)
 
-💕 **Gaming Enthusiast** - video games inspire my creativity and passion for development  
-📜 **Experience** - over 2 years of scripting and working on complex gameplay systems  
-🛠️ **Specialization** - building complicated systems to always improve myself
-💡 **Approach** - I use the right tools for the job and always aim for clean, efficient solutions  
-⚡ **Hobbies** - experimenting with frameworks, learning new libraries, and refining my coding workflow  
+- 💬 Ask me about **luau, architectures and math**
 
----
+- 📫 How to reach me **discord: letikgg**
 
-## 🛠️ **Technical Stack**  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/https://discord.gg/z4DsnXGgeB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/z4DsnXGgeB" height="30" width="40" /></a>
+</p>
 
-I work with a variety of libraries and frameworks, including:  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- **Resource Management**: Maid / Trove / Janitor  
-- **Networking**: Packet, RbxNet  
-- **Data Replication**: Replica  
-- **Architecture**: custom knit-like structures (or Knit if required)  
-- **Data Management**: ProfileService, Suphi’s DataStore  
-- **Gameplay Systems**: FastCast, Promises, Springs, ZonePlus, TopBar+  
-- **Signals and Events**: Signal Series  
-- **UI Development**: Fusion, Roact  
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/letikkk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="letikkk" /></a></p><br><br>
 
-I also rely on professional tooling to streamline my workflow and keep my code maintainable:  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=letikkk&show_icons=true&locale=en&layout=compact" alt="letikkk" /></p>
 
-- **Rojo** - Roblox & VSCode sync  
-- **Git** - version control  
-- **Wally** - package management  
-- **Aftman** - toolchain manager  
-- **Selene / Stylua** - code formatting and linting  
-- **Roblox LSP** - IntelliSense for Roblox  
-- **Roblox TS** - scripting with TypeScript  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=letikkk&show_icons=true&locale=en" alt="letikkk" /></p>
 
----
-
-## 🌟 **My Philosophy**  
-
-I don’t just write scripts - I design systems where every component has a clear purpose, integrates seamlessly, and can evolve as projects grow.  
-
-- 📌 Clean, readable code is always better than quick hacks.  
-- 📌 Scalability and optimization are key for long-term projects.  
-- 📌 The right tools and frameworks make development faster and more reliable.  
-
----
-
-## 🎯 **Core Expertise**  
-
-- **Multiplayer Systems** - client-server communication, replication, and networking  
-- **Data Management** - saving, loading, and replicating complex data structures  
-- **Gameplay Mechanics** - combat systems, zones, UI/UX, and custom game logic  
-- **Performance Optimization** - efficient algorithms and mobile-first design  
-- **UI Frameworks** - building responsive UIs with Fusion and Roact  
-- **Code Quality** - using linters, formatters, and structured workflows for maintainable projects  
-
----
-
-## 🤝 **Let’s Connect**  
-
-📧 Open to collaborations and projects where clean code, scalability, and creativity are valued.  
-
----
-
-<div align="center">
-  <i>💡 "The best way to predict the future is to code it."</i>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=letikkk&" alt="letikkk" /></p>
