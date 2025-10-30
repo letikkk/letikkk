@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A Roblox scripter and developer focused on creating game systems and clean, scalable architectures.</p>
+<p align="center">programmer programming a programm</p>
 
 ###
 
