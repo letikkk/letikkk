@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">programmer programming a programm</p>
+<p align="center">programmer programming a programm (gamedevelopment && reverse) </p>
 
 ###
 
